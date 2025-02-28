@@ -1,0 +1,13 @@
+msa 
+- msa 강의에 대한 이해
+- Spring Cloud
+    - 서비스 디스커버리
+        - Eureka 서버에 무언갈 등록  
+    - 로드 밸런싱
+      - 로드 밸런싱 알고리즘 이해
+      - 클라이언트 사이트 로드 밸런싱
+        - FeignClient
+        - Ribbon
+        - WebClient
+    - 서킷 브레이커
+    - API 게이트웨이
