@@ -1,0 +1,5 @@
+
+server:
+  port: 19093
+
+message: "product-service message 19093"
