@@ -11,3 +11,17 @@ msa
         - WebClient
     - 서킷 브레이커
     - API 게이트웨이
+
+
+cicd 
+    cicd-docker 
+        - 간단한 docker 이미지 생성 및 컨테이너 띄우기 
+        - git action으로 ci 구축하기
+
+        
+redis 
+    redis-install 
+        - docker에서 redis 설치 
+    redis-intro
+        - Spring에서 Redis 활용: CRUD부터 복잡한 데이터 처리까지
+    
