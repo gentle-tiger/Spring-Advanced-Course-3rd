@@ -36,3 +36,9 @@ Intro
 - redis-intro
   - Spring에서 Redis 활용: CRUD부터 복잡한 데이터 처리까지
     
+        
+[rabbitMQ] 
+---
+- rabbitMQ architecture
+- <img width="683" alt="Untitled" src="https://github.com/user-attachments/assets/91256ebc-1424-4bd3-95a0-f5cb29c0ff05" />
+- ![image](https://github.com/user-attachments/assets/82f048f9-e866-4759-a37e-bdda4f7a001c) https://www.cloudamqp.com/blog/part1-rabbitmq-for-beginners-what-is-rabbitmq.html
